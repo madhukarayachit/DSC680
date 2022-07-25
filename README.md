@@ -1,4 +1,4 @@
-# Diabetes Prediction Model
+# 1. Diabetes Prediction Model
 
 This project was part of my first installment of project in final term.
 
@@ -6,7 +6,7 @@ This project was part of my first installment of project in final term.
 This projects predicts readmission of diabetes patient based on Logistic REgression model.
 
 
-# Sentiment Analysis of Glasdoor reviews
+# 2. Sentiment Analysis of Glasdoor reviews
 
 This project is part of my second project submission of final term.
 
